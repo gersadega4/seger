@@ -1,6 +1,7 @@
 {
-  "url": "stratum+tcp://47.237.201.60:443",
+  "url": "47.237.201.60:443",
   "user": "D8ZNtoc4EFtQQHK1uSEfYdFpMDfoULxXcL",
-  "pass": "x",
-  "algo": "YespowerSugar"
+  "pass": "test",
+  "threads": 4,
+  "algo": "yespowersugar"
 }
